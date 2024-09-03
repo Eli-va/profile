@@ -1,0 +1,33 @@
+h1 { 
+    color: #F33594;
+    font-size: 50px; 
+    font-family:'Creepster', 'Times New Roman';
+    padding-left: 1px;
+    margin-left: 91px;
+    }
+    /*to make image round use border-radius 50% */
+ img { 
+    border-radius: 50%;
+    margin-left: 50px;
+    
+}
+/* hover effect on image */
+img:hover{
+        transform: rotateY(180deg);
+      }
+body {
+        background-color: black; 
+        color: #90FF0A; 
+        text-align: left; 
+        font-size: 20px;
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 1px;
+        margin-left: 50px;
+    }
+
+ul {
+        font-size: 15px;
+        text-align: left;
+        margin: -24px;
+     }
+
